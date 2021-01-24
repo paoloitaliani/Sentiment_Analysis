@@ -1,4 +1,5 @@
-# Sentiment-Analysis
+# Dictionary-Based Sentiment Analysis
+You can also find this project in my website [here](https://paoloitaliani.github.io/sentanalysis.html).
 ## Introduction
 Text mining procedures are getting more and more popular thanks to the increasing relevance of unstructured data such as textual information. One of the studies that can be carried out using this information is the Sentiment Analysis, that in short associates a certain polarity (positive, neutral or negative) to chunks of text. One of the fundamental aspects is the choice of the dictionary that associates the corresponding polarity to each term. The purpose of this study is to verify if using different dictionaries we obtain results that are consistent with each other or produce different results. If convergence is not achieved, one can also evaluate which dictionary produces the most accurate results. The choice of the Italian language reduces the number of dictionaries available, but in any case 4 have been identified and their characteristics will be specified later.
 
