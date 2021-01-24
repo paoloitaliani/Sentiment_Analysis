@@ -100,7 +100,9 @@ At this point I proceeded in a similar way for what I did before with the tweets
 1. Positive: if the score is greater than 3.5
 2. Neutral: if the score is between 2.5 and 3.5
 3. Negative: if the score is less than 2.5
+
 For each review we obtained an estimated polarity thanks to the sentiment analysis, as well as an expected one resulting from the scores related to the product and made by the same author of the review. Now to avoid having too many reviews of the same type, the same number of reviews has been considered for each negative, neutral and positive polarity. The result of this is that for:
+
 1. Nespresso Inissia XN1001 Espresso Machine 429 reviews were considered, 143 for each polarity
 2. Xiaomi Mi Band 3 609 reviews were considerd, 203 for each polarity
 3. Samsung MB-MC32GA / EU EVO Plus 32 GB MicroSD card 252 reviews, 84 for each polarity
